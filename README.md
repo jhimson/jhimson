@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Backlogs application**
 
 - 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, ExpressJS, MongoDB**
-- 👨‍💻 All of my projects are available at [https://dev-jhimz.netlify.app/](https://dev-jhimz.netlify.app/)
+
 - 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, VueJS, ExpressJS, Django,**
 
 - 📫 How to reach me **jhim.pamisa@gmail.com**
