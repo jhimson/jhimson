@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, ExpressJS, MongoDB**
 
-- 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, VueJS, ExpressJS, Django,**
+- 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, ExpressJS,**
 
 - 📫 How to reach me **jhim.pamisa@gmail.com**
 
