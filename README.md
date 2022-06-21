@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhimson&label=Profile%20views&color=0e75b6&style=flat" alt="jhimson" /> </p>
 
-- 🔭 I’m currently working on **TheHood**
+- 🔭 I’m currently working on **Jobhunt-Manager**
 
-- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, ExpressJS, MongoDB, Java, Spring Boot, Python, Django**
 
 - 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, ExpressJS,**
 
