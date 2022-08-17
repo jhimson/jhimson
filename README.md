@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, ExpressJS,**
 
-- 📫 How to reach me **jhim.pamisa@gmail.com**
+- 📫 How to reach me **dev.jhimson.pamisa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
