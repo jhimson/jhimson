@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhimson&label=Profile%20views&color=0e75b6&style=flat" alt="jhimson" /> </p>
 
-- 🔭 I’m currently working on **Devtability**
+- 🔭 I’m currently working on **E-Commerce Web App**
 
 - 🌱 I’m currently learning **AngularJS and Spring Boot**
 
