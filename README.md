@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Devtability**
 
-- 🌱 I’m currently learning **ReactJS, Typescript, NodeJS, ExpressJS, MongoDB, Java, Spring Boot, Python, Django**
+- 🌱 I’m currently learning **AngularJS, Spring Boot**
 
 - 💬 Ask me about **MERN Stack, PERN Stack, ReactJS, ExpressJS,**
 
